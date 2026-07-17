@@ -1,0 +1,4 @@
+depthai>=2.24,<3
+opencv-python-headless>=4.8.0
+numpy<2
+pyyaml>=6.0

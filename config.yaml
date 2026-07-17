@@ -1,0 +1,20 @@
+capture:
+  interval: 10
+  output: dataset
+  resolution: "1080"
+  quality: 95
+  prefix: img
+  max_images: 0
+
+camera:
+  fps: 10
+  focus: auto
+  exposure: auto
+  white_balance: auto
+  brightness: 0
+  contrast: 0
+  saturation: 0
+  sharpness: 1
+  luma_denoise: 1
+  chroma_denoise: 1
+  anti_banding: 50hz
